@@ -1,19 +1,13 @@
 [![MasterHead](https://teamquest.pl/img/static/blog/reactjs.jpeg)](https://reactnative.dev/)
 <h1 align="center">Hi 👋, I'm Oskar Pianka</h1>
-<h3 align="center">And this is an Advice Location app</h3>
+<h3 align="center">And this is Rozlicz Mnie app</h3>
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+
 <div align="center">
 
-![lowAdvice (1)](https://user-images.githubusercontent.com/97236622/231132186-615e3409-eb46-40e7-b4df-3eb5484c3a2a.gif)
+![rozlicxmnie](https://user-images.githubusercontent.com/97236622/231148717-eba401fb-65f1-494a-95a5-777c1547fe4b.gif)
 </div>
 
 
