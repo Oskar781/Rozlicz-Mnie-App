@@ -1,6 +1,8 @@
 [![MasterHead](https://teamquest.pl/img/static/blog/reactjs.jpeg)](https://reactnative.dev/)
 <h1 align="center">Hi 👋, I'm Oskar Pianka</h1>
-<h1>If you want to test the app without signing up here are the credentials </h1>
+<h3>If you want to test the app without signing up here are the credentials </h3>
+<h3> Email : test781221628@gmail.com </h3>
+<h3> Password: test1234 </h3>
 <h3 align="center">And this is Rozlicz Mnie app</h3>
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
