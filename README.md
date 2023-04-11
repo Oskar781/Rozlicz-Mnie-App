@@ -59,7 +59,7 @@ In the app you can:
 
 
 
-<img width="1415" alt="Screenshot 2023-04-11 at 12 24 34" src="https://user-images.githubusercontent.com/97236622/231132819-0bb8e886-2558-48be-a763-5898bf4df999.png">
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
