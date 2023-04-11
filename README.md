@@ -36,7 +36,10 @@ In the app you can:
 
 
 1. Get a free settings at [https://firebase.google.com/](https://firebase.google.com/), you will need to provide authentication and Firestore Database,also helpfull can be [https://rnfirebase.io/](https://rnfirebase.io/)
+
+
 ![Screenshot 2023-04-11 at 13 52 06](https://user-images.githubusercontent.com/97236622/231154571-06967273-c9a8-458a-8899-1a9d601f929c.png)
+
 2. Clone the repo
    ```sh
    git clone https://github.com/Oskar781/Rozlicz-Mnie-App
