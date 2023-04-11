@@ -35,7 +35,7 @@ In the app you can:
 ### Installation
 
 
-1. Get a free API Key at [https://firebase.google.com/](https://firebase.google.com/), you will need to provide authentication and Firestore Database
+1. Get a free settings at [https://firebase.google.com/](https://firebase.google.com/), you will need to provide authentication and Firestore Database,also helpfull can be [https://rnfirebase.io/](https://rnfirebase.io/)
 ![Screenshot 2023-04-11 at 13 47 01](https://user-images.githubusercontent.com/97236622/231153595-b199ac99-dfed-40f0-8e28-c1134dd9b6a6.png)
 2. Clone the repo
    ```sh
