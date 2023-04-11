@@ -48,7 +48,7 @@ In the app you can:
    ```sh
    yarn start
    ```
-. Press a to open on android
+5. Press a to open on android
    ```sh
    a
    ```
